@@ -1,0 +1,11 @@
+.Emoji {
+    padding: 0 5px;
+}
+
+.LoadingMessage {
+    color: var(--light-grey);
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

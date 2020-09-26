@@ -1,0 +1,20 @@
+.Controller {
+    display: grid;
+    grid-template-columns: 1fr 2px 1fr;
+    height: 100%;
+}
+
+.Controller-content {
+    padding: 5px 5px 5px 10px;
+    width: 380px;
+}
+
+.Controller-label {
+    font-size: var(--smaller-font);
+}
+
+.Controller-distribution {
+    height: 100px;
+    background-color: aliceblue;
+    margin-top: 5px;
+}

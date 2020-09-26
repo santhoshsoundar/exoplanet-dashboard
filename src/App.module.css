@@ -1,0 +1,25 @@
+.App {
+  width: 50rem;
+  display: flex;
+  flex-direction: column;
+  margin: 20px auto 10px;
+  background-color: var(--content-bg);
+}
+
+.App-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: left;
+  padding: 10px 0 10px 20px;
+  font-size: 1.6rem;
+  color: var(--accent-primary);
+  border: 0.5px solid var(--lighter-grey);
+}
+
+.App-controller {
+  height: 12rem;
+  color: var(--accent-secondary);
+  border: 0.5px solid var(--lighter-grey);
+  border-top: 0;
+}

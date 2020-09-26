@@ -1,0 +1,13 @@
+.MainChart {
+    height: 24rem;
+    border: 0.5px solid var(--lighter-grey);
+    border-top: 0;
+    background-color: var(--content-bg);
+    padding: 10px 10px 10px 20px;
+}
+
+.MainChart-header {
+    font-size: 1.2rem;
+    color: var(--accent-primary);
+    margin-bottom: 10px;
+}
